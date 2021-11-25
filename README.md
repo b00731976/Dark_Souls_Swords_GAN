@@ -11,4 +11,4 @@ ____________________________________________________________
   3. The .zip data if you just want to have a quick go on the neural net 
 
 The scraping is not perfect and I missed a couple of swords. A couple of misc. icons got in as well and had to be removed manually.
-Not much tinckering has been done model-wise so feel free to play around with data augmentation, scraping improvement and hyperparameter tuning.
+Not much tinkering has been done model-wise so feel free to play around with data augmentation, scraping improvement and hyperparameter tuning.
