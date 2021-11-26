@@ -14,4 +14,4 @@ The scraping is not perfect and I missed a couple of swords. A couple of misc. i
 Not much tinkering has been done model-wise so feel free to play around with data augmentation, scraping improvement and hyperparameter tuning.
 ____________________________________________________________
 
-*Note: A B&W version is available for training purposes. The performance is obviously poor.*
+*Note: A B&W version is available for educational purposes. The performance is obviously poor.*
